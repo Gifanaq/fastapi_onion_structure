@@ -1,1 +1,1 @@
-# fastapi_onion_structure
+# Разбор слоистой архитектуры на FastAPI
